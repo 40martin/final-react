@@ -1,0 +1,19 @@
+[
+    {"idx":1, "titulo":"McPollo", "descripcion":"El auténtico sabor del pollo lo encontrás en nuestro clásico McPollo.", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcXQzmQj/200/200/original?country=ar", "precio":500, "categoria":"pollo", "stock":20},
+
+    {"idx":2, "titulo":"McCrispy Chicken Deluxe", "descripcion":"El más rico y crujiente pollo crispy, tomate, lechuga y mayonesa acompañado con pan de papa.", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$ktXfGUzp/200/200/original?country=ar", "precio":1000, "categoria":"pollo", "stock":40},
+
+    {"idx":3, "titulo":"McCrispy Chicken Deluxe Spicy", "descripcion":"El más rico y crujiente pollo crispy, tomate, lechuga y una deliciosa salsa Spicy acompañado con pan de papa.", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$krX81U77/200/200/original?country=ar", "precio":1500, "categoria":"pollo", "stock":60},
+
+    {"idx":4, "titulo":"Agua sin gas (500ml)", "descripcion":"La opción ideal para refrescar todas tus comidas.", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcX11dSt/200/200/original?country=ar", "precio":400, "categoria":"bebidas", "stock":100},
+
+    {"idx":5, "titulo":"Coca Cola Grande", "descripcion":"Burbujas contra el calor, contra la sed, contra el aburrimiento.", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kcX6zxgK/200/200/original?country=ar", "precio":650, "categoria":"bebidas", "stock":200},
+
+    {"idx":6, "titulo":"Jugo de Manzana", "descripcion":"Jugo de manzana 100% natural", "imagen":"https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$k5XzZH29/200/200/original?country=ar", "precio":800, "categoria":"bebidas", "stock":400},
+
+    {"idx":7, "titulo":"Arcos Dorados", "descripcion":"Arcos Dorados es el mayor operador de restaurantes de McDonald’s en América", "imagen":"https://www.mcdonalds.com.ar/uploads/Header_Desktop_Arcos_Dorados_0c2d69525a.jpg", "categoria":"nosotros", "stock":10},
+
+    {"idx":8, "titulo":"Sumate a nuestro equipo", "descripcion":"Conocé nuestra Cooltura y postulate para trabajar con nosotros.", "imagen":"https://www.mcdonalds.com.ar/uploads/FOTO_2_580x250_1080c546ce.jpg", "categoria":"nosotros", "stock":5},
+
+    {"idx":9, "titulo":"Noticias", "descripcion":"Entérate de las últimas noticias e iniciativas.", "imagen":"https://www.mcdonalds.com.ar/uploads/Subseccion_Desktop_Noticias_f66db2ff32.jpg", "categoria":"nosotros", "stock":1}
+]
